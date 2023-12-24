@@ -1,5 +1,4 @@
----
-Published
+## Published
 
 [1] Xue Liu, "A new proof for the Daniel-Stone theorem for random probability measures", Proceedings of the American Mathematical Society, 147(2019), no.9, 3887-3895. DOI:10.1090/proc/14520.
 
@@ -11,14 +10,13 @@ Published
 
 [5]Liu, Chunlin, and Xue Liu. "The irregular set for maps with almost weak specification property has full metric mean dimension." Journal of Mathematical Analysis and Applications (2023): 128043.
 
-Submitted
+## Submitted
 
 [1] Nian Liu, Xue Liu, On the variational principle for a class of skew product transformations, submitted.
 
 
-To be submitted
+## To be submitted
 
 [1]Nian Liu, Xue Liu, Irregular sets for a class of skew product transformations.
 
 [2]Xue Liu, Kening Lu, Linfeng Zhou, Continuity and H\"older continuity of invariant decomposition for measurable linear cocycles.
----
