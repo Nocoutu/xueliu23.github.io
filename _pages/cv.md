@@ -40,7 +40,7 @@ Talks
 
 Professional Activities
 ======
-  <ul>{% for post in site.potfolio %}
+  <ul>{% for post in site.portfolio %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
