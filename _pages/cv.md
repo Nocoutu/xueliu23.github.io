@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics and Applied  Mathematics, Sichuan University, 2012.09-2016.06
-* Ph.D. in Dynamical systems and Ergodic theory, Brigham Young University, 2016.09-2021.05, Supervisor:Kening Lu.
+* Ph.D. in Dynamical systems and Ergodic theory, Brigham Young University, 2016.09-2021.05, Supervisor:[Kening Lu](https://scholar.google.com/citations?user=XznHazIAAAAJ&hl=en).
 
 Professional experience
 ======
 * 2021.07-2024.01: Postdoc
   * University of Sicence and Technology of China
-  * Co-advisor: Professor Wen Huang
+  * Co-advisor: [Wen Huang](https://faculty.ustc.edu.cn/huangwen1/zh_CN/index/254377/list/index.htm)
 
   
 Grants
