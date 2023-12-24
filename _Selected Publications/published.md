@@ -10,3 +10,14 @@ Published
 [4]Xue Liu, "Exponential decay of random correlations for random Anosov systems mixing on fibers", Journal of Differential Equations，378(2024), 1-93, DOI:10.1016/j.jde.2023.09.018.
 
 [5]Liu, Chunlin, and Xue Liu. "The irregular set for maps with almost weak specification property has full metric mean dimension." Journal of Mathematical Analysis and Applications (2023): 128043.
+
+Submitted
+
+[1] Nian Liu, Xue Liu, On the variational principle for a class of skew product transformations, submitted.
+
+
+To be submitted
+
+[1]Nian Liu, Xue Liu, Irregular sets for a class of skew product transformations.
+
+[2]Xue Liu, Kening Lu, Linfeng Zhou, Continuity and H\"older continuity of invariant decomposition for measurable linear cocycles.
