@@ -14,7 +14,7 @@ Education
 * B.S. in Mathematics and Applied  Mathematics, Sichuan University, 2012.09-2016.06
 * Ph.D. in Dynamical systems and Ergodic theory, Brigham Young University, 2016.09-2021.05
 
-Work experience
+Professional experience
 ======
 * 2021.07-2024.01: Postdoc
   * University of Sicence and Technology of China
