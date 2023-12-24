@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Applied  Mathematics, Sichuan University, 2012.09-2016.06
+* Ph.D. in Dynamical systems and Ergodic theory, Brigham Young University, 2016.09-2021.05
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021.07-2024.01: Postdoc
+  * University of Sicence and Technology of China
+  * Supervisor: Professor Wen Huang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
+Grants
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2022.09-2023.12 中国博士后科学基金第72批面上项目（二等资助）
+* 2023.01-2024.12 中国科学技术大学青年创新基金项目
 
 Publications
 ======
@@ -54,6 +44,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Honors
 ======
-* Currently signed in to 43 different slack teams
+* 2021年度博士后国际交流计划引进项目，项目编号：YJ20210308
+* 中国科学技术大学2021年度第二批次“墨子杰出青年特资津贴”一等资助
