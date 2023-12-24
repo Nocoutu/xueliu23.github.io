@@ -13,3 +13,5 @@ I am currently doing Postdoc in University of Science and Technology of China. I
 Research interest: dynamical systems and Ergodic theory. I'm mainly concerned with the complex phenomena in deterministic and random dynamical systems, which include statistic behaviour such as decay of correlation, geometric behaviour such as horseshoe and multifractal analysis.
 
 Contact me: xueliu21@ustc.edu.cn
+
+My ORCID: 0000-0002-4226-4800.
