@@ -1,5 +1,5 @@
 ---
-title: "A new proof for the Daniel-Stone theorem for random probability measures"
+title: 'A new proof for the Daniel-Stone theorem for random probability measures'
 collection: Publications
 permalink: https://www.ams.org/journals/proc/2019-147-09/S0002-9939-2019-14520-2/
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
