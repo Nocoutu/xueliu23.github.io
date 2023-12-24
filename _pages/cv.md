@@ -37,6 +37,12 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+Professional Activities
+======
+  <ul>{% for post in site.potfolio %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
   
 Teaching
 ======
