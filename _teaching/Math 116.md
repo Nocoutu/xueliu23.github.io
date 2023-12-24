@@ -4,6 +4,6 @@ collection: teaching
 type: "Workshop"
 permalink: 
 venue: "Brigham Young University, Mathematics Department"
-date: Winter 2019
+date: 2019
 location: "Provo, Utah, USA"
 ---
