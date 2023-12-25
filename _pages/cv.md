@@ -57,6 +57,6 @@ Honors
 
 Undergraduate Studies
 ======
-  <ul>{% for post in site.undergraduate %}
+  <ul>{% for post in _undergraduate/honors.md%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
