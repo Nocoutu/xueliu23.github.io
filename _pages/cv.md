@@ -54,6 +54,6 @@ Honors
 ======
 * 2021年度博士后国际交流计划引进项目，项目编号：YJ20210308
 * 中国科学技术大学2021年度第二批次“墨子杰出青年特资津贴”一等资助
-* [本科阶段]（<ul>{% for post in site.undergraduate %}
+* [本科阶段](<ul>{% for post in site.undergraduate %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>）
+  {% endfor %}</ul>)
