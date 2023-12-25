@@ -57,6 +57,14 @@ Honors
 
 Undergraduate Studies
 ======
-  <ul>{% for post in _undergraduate/honors.md%}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+---
+title: "Undergraduate Studies"
+collection: undergraduate
+---
+* 2013-2014 国家励志奖学金
+* 2015年美国数学建模比赛HM奖
+* 2014年中国大学生数学竞赛二等奖
+* 2014年中国大学生数学建模比赛省三等奖
+* 2012-2013， 2014-2015四川大学三等奖学金
+* 2014-2015四川大学优秀学生干部
+* 2014年四川大学“三下乡”优秀学生
