@@ -57,10 +57,6 @@ Honors
 
 Undergraduate Studies
 ======
----
-title: "Undergraduate Studies"
-collection: undergraduate
----
 * 2013-2014 国家励志奖学金
 * 2015年美国数学建模比赛HM奖
 * 2014年中国大学生数学竞赛二等奖
