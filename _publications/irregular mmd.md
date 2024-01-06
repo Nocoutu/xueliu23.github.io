@@ -1,5 +1,5 @@
 ---
-title: 'The irregular set for maps with almost specification property has full metric mean dimension'
+title: 'The irregular set for maps with almost weak specification property has full metric mean dimension'
 collection: publications
 permalink: 
 date: 2024-06-01
